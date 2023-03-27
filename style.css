@@ -1,0 +1,52 @@
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+#button1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#button2 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+#button3 {
+    height: 100px;
+    width: 100px;
+    background-color:
+        green;
+}
+
+#button4 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#randobutton {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+
+}
